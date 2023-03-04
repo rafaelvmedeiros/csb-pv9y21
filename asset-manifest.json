@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/css/main.c1980808.chunk.css",
-    "main.js": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/main.6efac540.chunk.js",
-    "main.js.map": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/main.6efac540.chunk.js.map",
-    "runtime-main.js": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/runtime-main.f9f22d2c.js",
-    "runtime-main.js.map": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/runtime-main.f9f22d2c.js.map",
-    "static/js/2.6fc2d2b7.chunk.js": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/2.6fc2d2b7.chunk.js",
-    "static/js/2.6fc2d2b7.chunk.js.map": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/2.6fc2d2b7.chunk.js.map",
+    "main.css": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/css/main.e5c6050a.chunk.css",
+    "main.js": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/main.9e5fc2cc.chunk.js",
+    "main.js.map": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/main.9e5fc2cc.chunk.js.map",
+    "runtime-main.js": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/runtime-main.f857543b.js",
+    "runtime-main.js.map": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/runtime-main.f857543b.js.map",
+    "static/js/2.be7eff0a.chunk.js": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/2.be7eff0a.chunk.js",
+    "static/js/2.be7eff0a.chunk.js.map": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/2.be7eff0a.chunk.js.map",
     "index.html": "https://rafaelvmedeiros.github.io/csb-pv9y21/index.html",
-    "static/css/main.c1980808.chunk.css.map": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/css/main.c1980808.chunk.css.map",
-    "static/js/2.6fc2d2b7.chunk.js.LICENSE.txt": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/2.6fc2d2b7.chunk.js.LICENSE.txt"
+    "static/css/main.e5c6050a.chunk.css.map": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/css/main.e5c6050a.chunk.css.map",
+    "static/js/2.be7eff0a.chunk.js.LICENSE.txt": "https://rafaelvmedeiros.github.io/csb-pv9y21/static/js/2.be7eff0a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9f22d2c.js",
-    "static/js/2.6fc2d2b7.chunk.js",
-    "static/css/main.c1980808.chunk.css",
-    "static/js/main.6efac540.chunk.js"
+    "static/js/runtime-main.f857543b.js",
+    "static/js/2.be7eff0a.chunk.js",
+    "static/css/main.e5c6050a.chunk.css",
+    "static/js/main.9e5fc2cc.chunk.js"
   ]
 }
